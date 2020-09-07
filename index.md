@@ -5,9 +5,10 @@ description: YOU FOUND ME! Lowkey trying to showoff my projects so enjoy....I gu
 cover: true
 permalink: /
 ---
+
 ## Quick About Me
 ---
-Born and raised in Malaysia but currently in the US. I graduated with a bachelors in Electrical Engineering (Spring 2020) where a pandemic robbed my convocation. Wondering where next I'll be. 
+Born and raised in Malaysia but currently in the US. I graduated with a bachelors in Electrical Engineering (Spring 2020) where a pandemic robbed my convocation. Wondering where I'll be next.
 
 Since I was a kid, I've always been fascinated by the tech world. 
 A life-long learner to push my limits and excited to see what the world can achieve together. 
@@ -17,7 +18,7 @@ Outside of work, I love outdoor activities such as kayaking and hiking.
 Active player in many sports, played competitively especially in squash and racquetball.
 
 Fluent in English, Malay, Mandarin, and Cantonese.
----
+
 ## Projects 
 ---
 Here is a list of the projects:
@@ -31,10 +32,9 @@ Here is a list of the projects:
 * [Kalman Filter with Matrix Class](#kalman-filter-with-matrix-class)
 * [Joy Ride Parallel Parking](#joy-ride-parallel-parking)
 * [Sensing Movement Bayes Theorem 1D](#sensing-movement-bayes-theorem-1D)
----
+
 ## Project Descriptions
 ---
-
 ### **Traffic Sign Classifier**
 [Github:](https://github.com/ianleongg/Traffic-Sign-Classifier)
 
@@ -43,7 +43,6 @@ Using LeNet-5 (Deep Learning) to build a Traffic Sign Recognition Classifier
 {:.figcaption}
 
 ---
-
 ### **Advance Lane Finding** 
 [Github:](https://github.com/ianleongg/Advance-Lane-Finding)
 
@@ -88,7 +87,6 @@ Using masking, canny edge detection, and hough transformation to detect lane lin
 {:.figcaption}
 
 ---
-
 ### **Reconstruction Trajectories** 
 [Github:](https://github.com/ianleongg/Reconstruction_Trajectories)
 
@@ -106,7 +104,6 @@ Kalman filter implemented based on matrix class functions such as addition, subt
 {:.figcaption}
 
 ---
-
 ### **Joy Ride Parallel Parking** 
 [Github:](https://github.com/ianleongg/Joy-Ride-Parallel-Parking)
 
@@ -115,7 +112,6 @@ A simple program to parallel park based on steering angles, forward, reverse mot
 {:.figcaption}
 
 ---
-
 ### **Sensing Movement Bayes Theorem 1D** 
 [Github:](https://github.com/ianleongg/Sensing-Movement-Bayes-Theorem-1D)
 Writing a simple sense and move program for a car based on Bayes Theorem in C++
