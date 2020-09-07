@@ -3,7 +3,7 @@ title: License
 permalink: /license
 ---
 
-Hydejack requires [placing GPLv3](https://hydejack.com/CHANGELOG/#license-change) in the repository, so here it is. Also see [notice](https://hydejack.com/NOTICE/).
+Hydejack requires [placing GPLv3](https://hydejack.com/CHANGELOG/#license-change) in the repository.
 
 ## GNU GENERAL PUBLIC LICENSE
 
