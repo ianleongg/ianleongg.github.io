@@ -1,0 +1,11 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+ian:
+  # Used by `jekyll-feed`:
+  name:                Zhi Yan (Ian) Leong
+  email:               ianleong@live.com
+  social:
+    email: mailto:ianleong@live.com
+    github: ianleongg
+    linkedin: zhiyanleong/
+
