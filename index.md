@@ -36,85 +36,101 @@ Here is a list of the projects:
 ## Project Descriptions
 ---
 ### **Traffic Sign Classifier**
+- Using LeNet-5 (Deep Learning) to build a Traffic Sign Recognition Classifier 
 [Github:](https://github.com/ianleongg/Traffic-Sign-Classifier)
 
 ![1](assets/project/1.png){:.lead width="497" height="252" loading="lazy"}
-Using LeNet-5 (Deep Learning) to build a Traffic Sign Recognition Classifier 
+traffic sign image obtained from the web and evaluated using our trained model.
 {:.figcaption}
 
 ---
 ### **Advance Lane Finding** 
+- Using images/video (Computer Vision) to build a lane finding algorithm 
 [Github:](https://github.com/ianleongg/Advance-Lane-Finding)
 
 ![2](assets/project/2.png){:.lead width="1159" height="332" loading="lazy"}
-Using images/video (Computer Vision) to build a lane finding algorithm 
+algorithm successfuly drawing on detected lane
 {:.figcaption}
 
 ---
 
 ### **Route Planner A Star Search** 
+- Using A* search algorithm to implement a 'Google-maps' route planning algorithm  
 [Github:](https://github.com/ianleongg/Route-Planner-A--Search)
 
+
 ![3](assets/project/3.png){:.lead width="700" height="450" loading="lazy"}
-Using A* search algorithm to implement a 'Google-maps' route planning algorithm  
+Black Dot: Starting point; Red Dot: Path taken; Yellow Dot: Destination Point
 {:.figcaption}
 
 ---
 
 ### **Sensing Movement Histogram Filter 2D** 
+- 2D histogram filter with sence and move function for a car in Python, C++ and Optimized C++
 [Github:](https://github.com/ianleongg/Sensing-Movement-Histogram-Filter-2D)
+  
 
 ![4](assets/project/4.png){:.lead width="366" height="252" loading="lazy"}
-2D histogram filter with sence and move function for a car in Python, C++ and Optimized C++   
+sense function
 {:.figcaption}
 
 ---
 
 ### **Traffic Light Classifier** 
+- Using openCV to classify red,yellow,green with accuracy >90% and never classify red as green 
 [Github:](https://github.com/ianleongg/Traffic_Light_Classifier)
 
+
 ![5](assets/project/5.png){:.lead width="1696" height="582" loading="lazy"}
-Using openCV to classify red,yellow,green with accuracy >90% and never classify red as green  
+example of the process
 {:.figcaption}
 
 ---
 
 ### **Finding Lane Lines** 
+- Using masking, canny edge detection, and hough transformation to detect lane lines 
 [Github:](https://github.com/ianleongg/Finding-Lane-Lines)
 
+
 ![6](assets/project/6.png){:.lead width="960" height="540" loading="lazy"}
-Using masking, canny edge detection, and hough transformation to detect lane lines 
+lane lines detected
 {:.figcaption}
 
 ---
 ### **Reconstruction Trajectories** 
+- Use raw acceleration, displacement, and angular rotation data from a vehicle's sensory data to plot trajectory
 [Github:](https://github.com/ianleongg/Reconstruction_Trajectories)
 
+
 ![7](assets/project/7.png){:.lead width="380" height="252" loading="lazy"}
-Use raw acceleration, displacement, and angular rotation data from a vehicle's sensory data to plot trajectory
+example of accelerating and then turn 270 degrees left
 {:.figcaption}
 
 ---
 
 ### **Kalman Filter with Matrix Class** 
+- Kalman filter implemented based on matrix class functions such as addition, subtraction, transpose, multiplication, determinant etc
 [Github:](https://github.com/ianleongg/Kalman-Filter-Matrix-Class)
 
+
 ![8](assets/project/8.png){:.lead width="1304" height="1069" loading="lazy"}
-Kalman filter implemented based on matrix class functions such as addition, subtraction, transpose, multiplication, determinant etc 
+visualization of the Kalman filter
 {:.figcaption}
 
 ---
-### **Joy Ride Parallel Parking** 
+### **Joy Ride Parallel Parking**
+- A simple program to parallel park based on steering angles, forward, reverse motions 
 [Github:](https://github.com/ianleongg/Joy-Ride-Parallel-Parking)
 
 ![8](assets/project/9.gif){:.lead width="305" height="569" loading="lazy"}
-A simple program to parallel park based on steering angles, forward, reverse motions 
+example of function execution
 {:.figcaption}
 
 ---
 ### **Sensing Movement Bayes Theorem 1D** 
+- Writing a simple sense and move program for a car based on Bayes Theorem in C++
 [Github:](https://github.com/ianleongg/Sensing-Movement-Bayes-Theorem-1D)
-Writing a simple sense and move program for a car based on Bayes Theorem in C++
+
 
 ---
 
