@@ -24,14 +24,14 @@ Fluent in English, Malay, Mandarin, and Cantonese.
 Here is a list of the projects:
 * [Traffic Sign Classifier](#traffic-sign-classifier)
 * [Advance Lane Finding](#advance-lane-finding)
-* [Route Planner A* Search](#route-planner-a*-search)
-* [Sensing Movement Histogram Filter 2D](#sensing-movement-histogram-filter-2D)
+* [Route Planner A* Search](#route-planner-a-star-search)
+* [Sensing Movement Histogram Filter 2D](#sensing-movement-histogram-filter-2d)
 * [Traffic Light Classifier](#traffic-light-classifier)
 * [Finding Lane Lines](#finding-lane-lines)
 * [Reconstruction Trajectories](#reconstruction-trajectories)
 * [Kalman Filter with Matrix Class](#kalman-filter-with-matrix-class)
 * [Joy Ride Parallel Parking](#joy-ride-parallel-parking)
-* [Sensing Movement Bayes Theorem 1D](#sensing-movement-bayes-theorem-1D)
+* [Sensing Movement Bayes Theorem 1D](#sensing-movement-bayes-theorem-1d)
 
 ## Project Descriptions
 ---
@@ -52,7 +52,7 @@ Using images/video (Computer Vision) to build a lane finding algorithm
 
 ---
 
-### **Route Planner A* Search** 
+### **Route Planner A Star Search** 
 [Github:](https://github.com/ianleongg/Route-Planner-A--Search)
 
 ![3](assets/project/3.png){:.lead width="700" height="450" loading="lazy"}
