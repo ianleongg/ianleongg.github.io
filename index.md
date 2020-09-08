@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Hey there, its Ian :)
-description: YOU FOUND ME! Lowkey trying to showoff my projects so enjoy....I guess. 
+description: YOU FOUND ME! Lowkey trying to show-off my projects so enjoy....I guess. 
 cover: true
 permalink: /
 ---
