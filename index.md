@@ -19,6 +19,8 @@ Active player in many sports, played competitively especially in squash and racq
 
 Fluent in English, Malay, Mandarin, and Cantonese.
 
+[View my resume:](https://drive.google.com/file/d/1wuA6a53WADTwV-OsWmjOJQ1nRjloobEK/view?usp=sharing)
+
 ## Projects 
 ---
 Here is a list of the projects:
