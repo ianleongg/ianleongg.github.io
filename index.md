@@ -19,7 +19,7 @@ Active player in many sports, played competitively especially in squash and racq
 
 Fluent in English, Malay, Mandarin, and Cantonese.
 
-[View my resume:](/Leong_Resume.pdf)
+[View my resume:](https://drive.google.com/file/d/1rHzByuOy644vo7gdvaRW155HApyZdW7m/view?usp=sharing)
 
 ## Projects 
 ---
