@@ -24,6 +24,7 @@ Fluent in English, Malay, Mandarin, and Cantonese.
 ## Projects 
 ---
 Here is a list of the projects:
+* [Behavioral Cloning](#behavioral-cloning)
 * [Traffic Sign Classifier](#traffic-sign-classifier)
 * [Advance Lane Finding](#advance-lane-finding)
 * [Route Planner A* Search](#route-planner-a-star-search)
@@ -36,6 +37,16 @@ Here is a list of the projects:
 * [Sensing Movement Bayes Theorem 1D](#sensing-movement-bayes-theorem-1d)
 
 ## Project Descriptions
+---
+### **Behavioral Cloning**
+- Using deep neural networks and convolutional neural networks to clone driving behavior 
+
+[More info on Github](https://github.com/ianleongg/Behavioral-Cloning)
+
+![10](assets/project/10.gif){:.lead width="600" height="448" loading="lazy"}
+birds-eye view of CNN model to output a steering angle to an autonomous vehicle at its max speed setting (~30mph).
+{:.figcaption}
+
 ---
 ### **Traffic Sign Classifier**
 - Using LeNet-5 (Deep Learning) to build a Traffic Sign Recognition Classifier 
@@ -133,7 +144,7 @@ visualization of the Kalman filter
 
 [More info on Github](https://github.com/ianleongg/Joy-Ride-Parallel-Parking)
 
-![8](assets/project/9.gif){:.lead width="305" height="569" loading="lazy"}
+![9](assets/project/9.gif){:.lead width="305" height="569" loading="lazy"}
 example of function execution
 {:.figcaption}
 
