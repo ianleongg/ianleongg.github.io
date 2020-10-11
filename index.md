@@ -21,6 +21,8 @@ Fluent in English, Malay, Mandarin, and Cantonese.
 
 [View my resume:](https://drive.google.com/file/d/13egZC2DD4DgOIGEYkJuOJw2Lq9TOa8ET/view?usp=sharing)
 
+[Schedule a meeting with me!](https://calendly.com/ianleong) 
+
 ## Projects 
 ---
 Here is a list of the projects:
