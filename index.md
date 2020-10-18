@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Hey there, its Ian :)
+title: Zhi Yan (Ian) Leong :)
 description: YOU FOUND ME! Lowkey trying to show-off my projects so enjoy....I guess. 
 cover: true
 permalink: /
