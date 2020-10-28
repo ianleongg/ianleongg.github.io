@@ -26,6 +26,10 @@ Enough about me, I'd love to get to know you. [Schedule a meeting with me!](http
 ## Projects 
 ---
 Here is a list of the projects:
+* [Path Planning](#path-planning)
+* [PID Control](#pid-control)
+* [Kidnapped Vehicle](#kidnapped-vehicle)
+* [Extended Kalman Filter](#extended-kalman-filter)
 * [Behavioral Cloning](#behavioral-cloning)
 * [Traffic Sign Classifier](#traffic-sign-classifier)
 * [Advance Lane Finding](#advance-lane-finding)
@@ -39,6 +43,46 @@ Here is a list of the projects:
 * [Sensing Movement Bayes Theorem 1D](#sensing-movement-bayes-theorem-1d)
 
 ## Project Descriptions
+---
+### **Path Planning**
+- Using the process of prediction, behavior, and trajectory to safely navigate around a virtual highway with other traffic that is driving +-10 MPH of the 50 MPH speed limit 
+
+[More info on Github](https://github.com/ianleongg/Path-Planning)
+
+![14](assets/project/14.gif){:.lead width="600" height="449" loading="lazy"}
+path planning algorithm where the car navigates on a highway.
+{:.figcaption}
+
+---
+### **PID Control**
+- Implement a PID controller to control a car in a simulator with twiddle algorithm for auto-tuning parameters 
+
+[More info on Github](https://github.com/ianleongg/PID-Control)
+
+![13](assets/project/13.gif){:.lead width="600" height="448" loading="lazy"}
+PID controller for car completing a lap on track.
+{:.figcaption}
+
+---
+### **Kidnapped Vehicle**
+- Implement localization through a 2D particle filter in C++ 
+
+[More info on Github](https://github.com/ianleongg/Kidnapped-Vehicle)
+
+![12](assets/project/12.gif){:.lead width="600" height="449" loading="lazy"}
+result of the localization process through the particle filter.
+{:.figcaption}
+
+---
+### **Extended Kalman Filter**
+- Using kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements 
+
+[More info on Github](https://github.com/ianleongg/Extended-Kalman-Filter)
+
+![11](assets/project/11.gif){:.lead width="600" height="448" loading="lazy"}
+result of the implementation of EKF with low RSME value.
+{:.figcaption}
+
 ---
 ### **Behavioral Cloning**
 - Using deep neural networks and convolutional neural networks to clone driving behavior 
