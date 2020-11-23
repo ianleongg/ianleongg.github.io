@@ -26,6 +26,7 @@ Enough about me, I'd love to get to know you. [Schedule a meeting with me!](http
 ## Projects 
 ---
 Here is a list of the projects:
+* [CarND Capstone](#carnd-capstone)
 * [Path Planning](#path-planning)
 * [PID Control](#pid-control)
 * [Kidnapped Vehicle](#kidnapped-vehicle)
@@ -43,6 +44,16 @@ Here is a list of the projects:
 * [Sensing Movement Bayes Theorem 1D](#sensing-movement-bayes-theorem-1d)
 
 ## Project Descriptions
+---
+### **CarND Capstone**
+- System integration was used for the vehicle to follow waypoints using Pure Pursuit and detect traffic lights for action decision as necessary. 
+
+[More info on Github](https://github.com/ianleongg/CarND-Capstone)
+
+![14](assets/project/15.gif){:.lead width="600" height="449" loading="lazy"}
+vehicle following waypoints and obeying traffic lights.
+{:.figcaption}
+
 ---
 ### **Path Planning**
 - Using the process of prediction, behavior, and trajectory to safely navigate around a virtual highway with other traffic that is driving +-10 MPH of the 50 MPH speed limit 
